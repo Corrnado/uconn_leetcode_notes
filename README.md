@@ -7,6 +7,10 @@
 | ----------- | ----------------------- |------------|-------------|--------------|
 | 200         | Number of Islands       | Jun        | 01/10/22    | [BFS](#BFS)  |
 | 752         | Open the Lock           | Jun        | 01/11/22    | [BFS](#BFS)  |
+| 490         | The Maze I              | Jun        | 01/12/22    | [BFS](#BFS)  |
+| 499         | The Maze II             | Jun        | 01/12/22    | [BFS](#BFS)  |
+| 505         | The Maze III            | Jun        | 01/12/22    | [BFS](#BFS)  |
+| 1685        | The Maze IV             | Jun        | 01/12/22    | [BFS](#BFS)  |
 | 545         | Boundary of Binary Tree | Bingjun    | 01/10/22    | [Tree](#Tree)|
 | 112         | Path Sum                | Bingjun    | 01/11/22    | [Tree](#Tree)|
 | 113         | Path Sum II             | Bingjun    | 01/11/22    | [Tree](#Tree)|
