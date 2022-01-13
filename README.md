@@ -15,14 +15,20 @@
 | 112         | Path Sum                | Bingjun    | 01/11/22    | [Tree](#Tree)|
 | 113         | Path Sum II             | Bingjun    | 01/11/22    | [Tree](#Tree)|
 | 437         | Path Sum III            | Bingjun    | 01/11/22    | [Tree](#Tree)|
+| 1026        | Maximum Difference Between Node and Ancestor| Bingjun    | 01/12/22    | [Tree](#Tree)|
 
 ## 题目类型汇总
 ### BFS
 * 200
 * 752
+* 490
+* 499
+* 505
+* 1685
 
 ### Tree
 * 545
 * 112
 * 113
 * 437
+* 1026
