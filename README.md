@@ -17,6 +17,9 @@
 | 113         | Path Sum II             | Bingjun    | 01/11/22    | [Tree](#Tree)|
 | 437         | Path Sum III            | Bingjun    | 01/11/22    | [Tree](#Tree)|
 | 1026        | Maximum Difference Between Node and Ancestor| Bingjun    | 01/12/22    | [Tree](#Tree)|
+| 72          | Edit Distance           | Anonymous    | 01/13/22    | Dynamic Programming |
+| 233         | Number of Digit One     | Anonymous    | 01/13/22    | Dynamic Programming |
+| Unknown     | The tower of Hanoi      | Anonymous    | 01/13/22    | Dynamic Programming |
 
 ## 题目类型汇总
 ### BFS
@@ -34,3 +37,8 @@
 * 113
 * 437
 * 1026
+
+### DP
+* Edit Distance
+* Number of Digit One
+* The tower of Hanoi 
