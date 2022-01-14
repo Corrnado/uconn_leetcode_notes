@@ -11,6 +11,7 @@
 | 499         | The Maze II             | Jun        | 01/12/22    | [BFS](#BFS)  |
 | 505         | The Maze III            | Jun        | 01/12/22    | [BFS](#BFS)  |
 | 1685        | The Maze IV             | Jun        | 01/12/22    | [BFS](#BFS)  |
+| 127         | Word Ladder             | Jun        | 01/13/22    | [BFS](#BFS)  |
 | 545         | Boundary of Binary Tree | Bingjun    | 01/10/22    | [Tree](#Tree)|
 | 112         | Path Sum                | Bingjun    | 01/11/22    | [Tree](#Tree)|
 | 113         | Path Sum II             | Bingjun    | 01/11/22    | [Tree](#Tree)|
