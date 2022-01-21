@@ -17,9 +17,10 @@
 | 113         | Path Sum II             | Bingjun    | 01/11/22    | [Tree](#Tree)|
 | 437         | Path Sum III            | Bingjun    | 01/11/22    | [Tree](#Tree)|
 | 1026        | Maximum Difference Between Node and Ancestor| Bingjun    | 01/12/22    | [Tree](#Tree)|
-| 72          | Edit Distance           | Anonymous    | 01/13/22    | Dynamic Programming |
-| 233         | Number of Digit One     | Anonymous    | 01/13/22    | Dynamic Programming |
-| Unknown     | The tower of Hanoi      | Anonymous    | 01/13/22    | Dynamic Programming |
+| 114         | Flatten Binary Tree to Linked List          | Bingjun    | 01/13/22    | [Tree](#Tree)|
+| 72          | Edit Distance           | Anonymous    | 01/13/22    | [Dynamic Programming](#DP) |
+| 233         | Number of Digit One     | Anonymous    | 01/13/22    | [Dynamic Programming](#DP) |
+| Unknown     | The tower of Hanoi      | Anonymous    | 01/13/22    | [Dynamic Programming](#DP) |
 
 ## 题目类型汇总
 ### BFS
