@@ -22,6 +22,7 @@
 | 72          | Edit Distance           | Anonymous    | 01/13/22    | [Dynamic Programming](#DP) |
 | 233         | Number of Digit One     | Anonymous    | 01/13/22    | [Dynamic Programming](#DP) |
 | Unknown     | The tower of Hanoi      | Anonymous    | 01/13/22    | [Dynamic Programming](#DP) |
+| 456     | 132 Pattern      | Jun    | 01/20/22    | [Monotonic Stack](#Monotonic) |
 
 ## 题目类型汇总
 ### BFS
@@ -44,3 +45,6 @@
 * Edit Distance
 * Number of Digit One
 * The tower of Hanoi 
+
+### Monotonic
+* 456
